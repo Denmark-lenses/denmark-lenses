@@ -1668,7 +1668,7 @@ span, a, a:hover {
   text-align: center;
   margin-bottom: 20px; }
   .portfolio .filtering span {
-    font-weight: 500;
+    font-weight: 1900;
     margin: 0 20px;
     cursor: pointer;
     position: relative; }
@@ -3008,7 +3008,7 @@ body.dark {
 /* ====================== [ 23 Start Responsive ] ====================== */
 @media screen and (min-width: 1200px) {
   .container {
-    max-width: 1170px; } }
+    max-width: 1900px; } }
 
 @media screen and (max-width: 991px) {
   .md-mb10 {
